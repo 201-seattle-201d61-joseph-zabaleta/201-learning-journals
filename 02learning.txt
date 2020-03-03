@@ -1,0 +1,10 @@
+Learning Journal Day 2
+
+Top three topics for the day were Conditional Logic, GIT Stuff with HTML/CSS review and add on.
+
+Today we covered a lot of good topics that were review of our homework and added more to our arsenal.  The biggest accomplishment for myself today was the GIT Stuff. I finally have a working GIT / Account and I am able to add, commit, push ACP my work which is amazing. Able to clone materials to my system then open with terminal in VSCODE save and upload. THis alone makes us feel more like software developers.
+
+The html/css portion was straight forward and simple to follow.  As for the Conditoinal Logic there is room for improvement. I believe since this is the begginning we will learn more applications for using condtional logic expresssions. 
+
+We worked on our second lab today and this lab was not as descriptive as the first lab, such as it was not step by step and required some thinking. We had a lot of freedom with some aspects as long as we met the minimum requirements of others.  One thing I like is how we did a review over the previous lab, will we be getting feedback for our labs? So we can fix our errors and build good syntax habits.
+
