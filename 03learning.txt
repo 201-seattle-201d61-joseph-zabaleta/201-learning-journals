@@ -1,0 +1,40 @@
+Learning Journal 3
+
+PRACTICE MORE LOOPS!!!!
+
+
+### CSS Box Model
+
+Briefly touched the topic of CSS Box model. This is how we can create layouts for our HTML. Each element in html has a "box" around it even if you don't see one. We control these boxes using the below properties
+
+* padding
+  - space between the border and the box content
+* border
+  - space between padding and margin that is at the edge of out content
+* margin
+  - The space between the border and other elements on the page
+
+### Arrays and LOOPS
+
+## Arrays
+
+Talked about what arrays actually are, a bucket of variables.  A variable that holds multiple values is an array.  Best to store things related to each other.
+  - Arrays are index based
+
+We covered how to manipulate an array with four commands
+  -push: adds an item to end of the array
+  -pop: removes an item from the end
+
+  -shift: removes an item from the front of an array
+  -unshift: adds an item to the front of an array
+
+## LOOPS
+
+Loops are used to run code more than once. Three types of loops are for, while, and do while loops.
+
+"Arrays and loops are best buds"
+
+
+###LAB
+
+Today we added onto our guessing game. Two new questions utilizing loops and a lot of if's and else if's and just pure conditional logic. Put our arrays to the test and it was a lot to take in. Just need more practice to really grasp the idea and power behind arrays and loops.
