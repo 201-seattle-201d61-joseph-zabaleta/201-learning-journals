@@ -1,0 +1,13 @@
+Learning notes 04
+20200305
+
+Today we started out with a review of the lab that was super helpful to use another students code and tear it apart in the sense of learning about each element and piece.
+
+-Main point
+  Was focused on learning functions and what functions can do how do invoke them. We were able to take our current project of guessing game and condense some code.
+
+- Paired programming
+  This is a great technique as it lets you see other peoples point of view. Sometimes other developers have a better or different understanding of how a piece of code works and can explain in terms that you will understand. Working on a project as a team was fun.
+
+-Overall lecture
+  Sometimes we get caught in a rabit hole, such as we will spend 15+ minutes talking about the more advanced material that applies but doesnt apply towards our current objectives. Overall the class is going well.
