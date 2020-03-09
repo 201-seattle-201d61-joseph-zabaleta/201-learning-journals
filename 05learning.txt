@@ -1,0 +1,9 @@
+Learning Journal 05
+
+Over the first weekend we had a lab that had 3 parts and a few other assignments
+We learned about git branching and how to add features without messing up the main master branch of a project. The lab that went along with it was very good. We had 5 problems that we needed to sold utilizing what we learned about functions. They built on each and was fun to troubleshoot our way through them.
+
+CSS Diner was interesting but not sure if it was effective. If the goal was to bring light to the many many many different ways to select elements then yes it was successful but if it was to gain practical use and knowledge I am not sure if that was good.  It was 32 questions and pretty simple to follow instructions to implement them just once it was done it was done on to the next way of selecting items.
+
+Partner power hour : This is a good assignment to learn from people in the field and companies around. I did mine over frontRow and learned about AWS. This was interesting as I originally did not know about the many services that cloud computing can provide.
+
