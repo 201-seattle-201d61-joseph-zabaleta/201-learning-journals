@@ -1,0 +1,30 @@
+Learning Journal 06
+
+-Feedback Review of Previous week
+Start of the lecture began with feedback review. This is really good to know that instructors and class are aware of upcoming changes and discuss common issues and maybe why we encountered them.
+
+-Code Review of Lab Git Branching
+Talked about how to fork off github, clone down, and checkout new branches off the master.
+
+- git checkout -b newBranchNameHere
+Then ACP after all the work is done followed by a PR (Pull request) to master to merge and add the new feature to the master.
+
+##New Material
+
+###Objects
+- A bucket of properties that has a location.
+- Organizes a key and value pairs
+
+Refering to objects by dot notation and bracket notation, but dot notation is our go to. 
+Objects use a prototype to define default properties.  
+
+Prototype: Is a template that all objects have hidden.  
+
+- 'this' is used to refer to the object itself from within. Can grab its own properties.
+
+
+### Dah DOM!
+
+-Our way of putting content FROM js, into out HTML.
+- A built in API for representing our content within our business logic.
+
