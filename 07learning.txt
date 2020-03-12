@@ -1,0 +1,5 @@
+Learning Journal 07
+
+Today's journal is short. We did a huge review of making objects by hand that lead into todays lab. We learned about constructor functions that are used to created our objects. These constructors take in some set parameters and create properties for objects as well as run calculations for that object properties.
+
+We learned a about the basic of tables in html and part of our lab was to have a table built based off our object data. LOTS OF WORK, spent a lot of time helping others get caught up from the previous lab and fell behind myself hince the short journal today. -Thanks

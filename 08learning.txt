@@ -1,0 +1,5 @@
+Learning journal 08
+
+Today was a rather simple day with a lot of much needed review.  We went over the previous day lab and even worked a bit more with prototype of objects.  We did a quick run through some CSS properties and discussed what wire frames are for along with there uses.  We how ever ran out of time to put the knowledge to immediate use as unforseen events happened.  As a class we have created a slack channel that others can mute if it gets to crazy along with a discord channel to voice , share screen, and collaborate.
+
+Stay Safe!
