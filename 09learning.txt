@@ -1,0 +1,5 @@
+Learning Journal 09
+
+What did we learn today? Well we did a another review on the salmon cookie stand. Which enforced the constructors, objects, and tables.  The main gain was getting crystal clear on the prototypes and being able to use them in my new code for today. Before I had everything built as methods and that was that.
+
+Next we learned about Forms, buttons and tying these in with "events" Events are when something happens that fires off something else such as a mouse click or a mouse hover. So clicking a submit button is an example.  Then took this new found knowledge to continue the salmon spree! I was able to get caught up somewhat on the lab and develop the form, and I have plans to continue to clean up my code over the weekend.
