@@ -1,0 +1,4 @@
+Learning Journal 11
+
+Today we touched a little bit on Audio and Video Elements. HTML knows how to decode and display them. They are built in element tags and has browswer build in controls.
+Then we went onto this weeks lab which was Bus Mall. We introduced vote tracking using user interaction such as events.  Today was a good use of all our skill sets we have learn this far and apply them to todays lab. On the the next day!

@@ -1,0 +1,8 @@
+Learning Journal 10
+
+A wrap up of another coding filled weekend. This week we has a few projects going on such as Chocolate-Pizza, wireframing, git hub branching practices, and finishing the infamous salmon cookies.
+
+Biggest learning point was CSS. Learning the patience for CSS and understanding more features of it. I was able to complete the pizza project but when I originally started I was so frusted I could not get the elements to do what I wanted. I just abandoned ship three times and finally came back around and things started clicking.
+
+Salmon cookie project was better after all the review this week and having time to go back and clean it up then we had some git hub tutorials about some things we already do and some new things about merge conflicts and undo changes.
+

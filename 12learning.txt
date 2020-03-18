@@ -1,0 +1,16 @@
+Learning Journal 12
+
+Starting off with a class warm up assignment. Carosal event making images on a row move by click buttons next, previous, and last buttons. 
+
+Moved into indepth code review of a classmate on Bus Mall lab. Reinforcing the random function and writing to the dom and replacing the src elements. 
+
+Canvas --
+
+Using JS to draw 2d 3d vector items onto a set canvas  We are able to draw shapes such as circles triangles and rectangles. Canvas is not very responsive and usually has set height and width attributes.  
+
+ChartJS - 3rd Party Library
+ - Used for drawing charts with Canvas
+
+Installation uses CDN , content delivery network. Takes a url instead a file path to script link a js file to your page. 
+
+After working with ChartJS I Love them! They are so much customization its huge, flexible, and has a nice visual to it. I was able to put one table and have two data sets on the page. This is a cool library that I think I first saw in Khan Academy training.
